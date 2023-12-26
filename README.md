@@ -1,2 +1,5 @@
-# login-css
-Projeto "Tela de Login" feito com HTML e CSS. Dez/2023
+# Login - CSS
+Projeto "Tela de Login" feito com HTML, CSS e Boxicons.
+Feito em Dez/2023
+
+<img src="./img/login-css-printscreen.png">
